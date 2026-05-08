@@ -7,7 +7,7 @@
 
 *   **Strategic Market Segmentation:** Developed a classification framework that categorized cities into **Underserved**, **Balanced**, and **Saturated** segments. This allowed for targeted resource allocation, shifting from a "one-size-fits-all" approach to a precision-based expansion model.
 *   **Data-Driven Growth Insights:** Leveraged **Python (Seaborn/Pandas)** to perform correlation analyses, uncovering the "Network Dominance Effect" in mature markets and identifying the "Success Drivers" in new territories. This helped justify a move toward diversified store formats (e.g., Kiosks vs. Flagship stores).
-*   **Integrated Analytics Engine:** Built a comprehensive **Power BI** dashboard that serves as the project's analytical engine, translating complex market metrics (Population Density, F&B Spend, and Market Capture Rates) into actionable visual stories for executive stakeholders.
+*   **Integrated Analytics Engine:** Built a **Power BI** dashboard that serves as the project's analytical engine, translating market metrics (Population Density, F&B Spend, and Market Capture Rates) into  visual stories for executive stakeholders.
 
 ## 📂 Repository Structure & File Instructions
 
@@ -28,5 +28,4 @@ This file serves as the analytical core. All figures and visualizations in the P
 ### 3. site analysis.ipynb — Python In-depth Correlation Analysis
 This notebook provides the technical backbone for the performance reviews. It includes:
 *   **Regression Analysis:** Evaluating the relationship between Market Potential and Store Performance for Underserved segments.
-*   **Cannibalization Assessment:** Analyzing the correlation between Store Count and ADS in Saturated markets to identify diminishing returns.
 *   **Data Visualization:** Specialized charts used to support the strategic reasoning in the final report.
